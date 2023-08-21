@@ -1,6 +1,6 @@
 # Extracting tabular data from scanned images
 
-Jonathan Tan
+Flurry Unicorn
 
 ## Installation
 
